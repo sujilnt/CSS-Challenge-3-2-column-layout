@@ -5,7 +5,7 @@ This one will get you fiddling with margins and padding!, Check out previous cha
 
 You'll need to set a fixed width for your wrap, and then float the navigation div.<br>
 You may also want to fiddle with widths/margins of the navigation and content divisions!<br>
-For this and the next few challenges, you may want to first look through  [MaxDesign's Two columns](http://maxdesign.com.au/articles/two-columns/) {:target="_blank"}
+For this and the next few challenges, you may want to first look through  [MaxDesign's Two columns](http://maxdesign.com.au/articles/two-columns/)
  with colour tutorial.
 
 Here is  the image !!
@@ -64,4 +64,4 @@ Use this Code , don't Edit Html and copy from here.
   </body>
 </html>
 ```
-Here is my url : 
+Here is my url : https://sujilnt.github.io/CSS-Challenge-3-2-column-layout/
